@@ -13,9 +13,9 @@ Just Imagine the following secenario that We have an Activity and we wish to sav
 ### Why use Android Dependency Injection?
 If you’re the boss of a company, would you prefer doing all the things yourself or delegate the tasks?
 
-Would you prefer hiring a rookie over an expert who already knows the task?
+Would you prefer hiring a nobish over an expert who already knows the task?
 
-In an ideal situation, the answer to both of the above questions should be the latter option.
+In an ideal situation, the answer to both of the above questions should be the second option.
 
 That’s why Dependency Injection is so critical. Instead of instantiating SharedPreferences, Databases, Network Libraries in our Activity each time, we’ll prefer to have instances of them created somewhere else and inject them in our Activity when it’s needed.
 
