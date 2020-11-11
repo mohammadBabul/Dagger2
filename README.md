@@ -8,11 +8,7 @@
 
 Here is the example of Dependency injection(DI) in android.
 
-Just Imagine the following secenario that We have an Activity and we wish to save some data in the SharedPreferences. 
-Doing this without DI we should instantiate Sharepreferences for saving, retrieving data from the SharedPreferences, 
-all within the Activity’s boilerplate code. If we want to use those edit, update or get those data in other activity, we must have to pass the context. For avoiding frequent instance creation we use DI. 
-I develop a android application to show a weather data of a specific city, I used Dhaka. 
-
+Just Imagine the following secenario that We have an Activity and we wish to save some data in the SharedPreferences. Doing this without DI we should instantiate Sharepreferences for saving, retrieving data from the SharedPreferences,  If we want to use those edit, update or get those data in other activity, we must have to pass the context. For avoiding frequent instance creation we use DI. 
 
 ### Why use Android Dependency Injection?
 If you’re the boss of a company, would you prefer doing all the things yourself or delegate the tasks?
